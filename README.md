@@ -1,10 +1,7 @@
 # HIVE-Net-Centerline-Aware-HIerarchical-View-Ensemble-Convolutional-Network-for-Mitochondria-Segment
-HIVE-Net: Centerline-Aware HIerarchical View-Ensemble Convolutional Network for Mitochondria Segmentation in EM Images
+Here are implementations for paper: <br />
 
-This project contains the code used for the experiments in the paper:
-"EM-NET: CENTERLINE-AWARE MITOCHONDRIA SEGMENTATION IN EM IMAGES VIA HIERARCHICAL VIEW-ENSEMBLE CONVOLUTIONAL NETWORK." in ISBI2020, by Zhimin Yuan and so on.
-
-You can run this code on Linux.
+**HIVE-Net: Centerline-Aware HIerarchical View-Ensemble Convolutional Network for Mitochondria Segmentation in EM Images**.
 
 Contact: Zhimin Yuan (zhimin_yuan@163.com)
 
