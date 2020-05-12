@@ -7,7 +7,7 @@ Contact: Zhimin Yuan (zhimin_yuan@163.com)
 
 ## Network Structure
 
-![](figures/network_architucture.pdf) 
+![](figures/network_architucture.png) 
 
 ## Requirements
 - Tested with Python 3.6
