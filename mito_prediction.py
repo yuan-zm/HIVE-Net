@@ -154,7 +154,7 @@ def polarize(img):
 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-test_epoch = 405
+test_epoch = xxx
 test_iter = 0
 
 image_path = './oriCvLab/testImg.nii.gz'
